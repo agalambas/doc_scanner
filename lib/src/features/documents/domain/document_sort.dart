@@ -1,0 +1,1 @@
+enum DocumentSort { date, name }
